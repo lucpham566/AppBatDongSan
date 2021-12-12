@@ -1,0 +1,15 @@
+export const LOGIN = "LOGIN";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FALSE = "LOGIN_FALSE";
+
+export const GET_USER_LOGIN = "GET_USER_LOGIN";
+export const GET_USER_LOGIN_SUCCESS = "GET_USER_LOGIN_SUCCESS";
+export const GET_USER_LOGIN_FALSE = "GET_USER_LOGIN_FALSE";
+
+export const LOGOUT = "LOGOUT";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const LOGOUT_FALSE = "LOGOUT_FALSE";
+
+export const REGISTER = "REGISTER";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FALSE = "REGISTER_FALSE";

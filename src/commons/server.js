@@ -1,0 +1,1 @@
+export const urlServer = "http://10.0.2.2:8080/ServerNhaTro/"; //"https://www.dichvudat247.com/" "http://10.0.2.2:8080/ServerNhaTro/"

@@ -1,0 +1,6 @@
+export const ADD_NAVIGATION = "ADD_NAVIGATION";
+
+export const GO_TO_PRODUCT_DETAIL = "GO_TO_PRODUCT_DETAIL";
+
+export const SHOW_LOADING = "SHOW_LOADING";
+export const HIDE_LOADING = "HIDE_LOADING";

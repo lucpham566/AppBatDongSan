@@ -1,0 +1,7 @@
+export const GET_POST_USER = "GET_POST_USER";
+export const GET_POST_USER_SUCCESS = "GET_POST_USER_SUCCESS";
+export const GET_POST_USER_FALSE = "GET_POST_USER_FALSE";
+
+export const GET_USER = "GET_USER";
+export const GET_USER_SUCCESS = "GET_USER_SUCCESS";
+export const GET_USER_FALSE = "GET_USER_FALSE";
